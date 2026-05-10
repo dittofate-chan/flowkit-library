@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "name": "FlowKit Library",
+    "updated": "2026-05-10",
+    "categories": [
+        { "id": "text",        "label": "Text" },
+        { "id": "transitions", "label": "Transitions" },
+        { "id": "effects",     "label": "Effects" },
+        { "id": "sfx",         "label": "SFX" }
+    ],
+    "effects": [
+        "text-pop-in",
+        "letter-fade-out"
+    ]
+}
