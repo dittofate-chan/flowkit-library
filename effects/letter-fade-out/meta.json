@@ -1,0 +1,11 @@
+{
+    "id": "letter-fade-out",
+    "name": "Letter Fade Out",
+    "category": "text",
+    "description": "Cinematic outro — letters rise and fade out one after another. Text layers only.",
+    "version": "0.1.0",
+    "author": "FlowKit",
+    "preview": "preview.webm",
+    "script": "apply.jsx",
+    "defaultDurationFrames": 24
+}

@@ -1,0 +1,12 @@
+{
+    "id": "glitch-1",
+    "name": "Glitch_1",
+    "category": "text",
+    "description": "",
+    "script": "apply.jsx",
+    "preview": "preview.webm",
+    "defaultDurationFrames": 30,
+    "alignToLayerEnd": true,
+    "source": "captured",
+    "captured": "2026-05-11T11:57:24.595Z"
+}
