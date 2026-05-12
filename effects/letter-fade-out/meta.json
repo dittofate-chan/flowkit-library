@@ -5,7 +5,7 @@
     "description": "Cinematic outro — letters rise and fade out one after another. Text layers only.",
     "version": "0.1.0",
     "author": "FlowKit",
-    "preview": "preview.webm",
+    "preview": "preview.mp4",
     "script": "apply.jsx",
     "defaultDurationFrames": 24
 }
