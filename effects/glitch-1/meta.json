@@ -4,7 +4,7 @@
     "category": "text",
     "description": "",
     "script": "apply.jsx",
-    "preview": "preview.webm",
+    "preview": "preview.mp4",
     "defaultDurationFrames": 30,
     "alignToLayerEnd": true,
     "source": "captured",
