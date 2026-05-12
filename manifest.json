@@ -10,6 +10,7 @@
     ],
     "effects": [
         "text-pop-in",
-        "letter-fade-out"
+        "letter-fade-out",
+        "glitch-1"
     ]
 }
