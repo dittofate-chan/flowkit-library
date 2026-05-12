@@ -5,7 +5,7 @@
     "description": "Bouncy scale-in animation",
     "version": "0.2.0",
     "author": "FlowKit",
-    "preview": "preview.webm",
+    "preview": "preview.mp4",
     "script": "apply.jsx",
     "defaultDurationFrames": 13
 }
